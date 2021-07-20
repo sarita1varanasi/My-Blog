@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -109,4 +110,17 @@ p {
 
 .links:hover {
     background-color:dodgerblue;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.article:hover {
+    color: fuchsia;
 }
