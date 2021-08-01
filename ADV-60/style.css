@@ -130,3 +130,33 @@ p {
 #img3:hover{
     transform: scale(0.9);
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+#contact {
+   background-color: firebrick;
+   text-align: center;
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: white;
+    text-shadow: none;
+}
